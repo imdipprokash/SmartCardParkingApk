@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "380027960917",
+    "firebase_url": "https://smartcardparking-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartcardparking",
+    "storage_bucket": "smartcardparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380027960917:android:9057927a6569a2b5401edc",
+        "android_client_info": {
+          "package_name": "com.dominicsilveira.parkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380027960917-pvvb129ijjocf3s1gjovoqhj2onpqn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wFs0eXCrO6-6j17DLH__oF-N15b-hHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380027960917-pvvb129ijjocf3s1gjovoqhj2onpqn6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
